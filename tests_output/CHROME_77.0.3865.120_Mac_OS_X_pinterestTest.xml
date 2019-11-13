@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="6"
+            failures="2"
+            tests="2">
+
+  <testsuite name="pinterestTest"
+    errors="6" failures="2" hostname="" id="" package="pinterestTest" skipped="2"
+    tests="2" time="56.34" timestamp="">
+  
+    <testcase name="Login" classname="pinterestTest" time="18.64" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Create Board Test" classname="pinterestTest" time="37.70" assertions="5">
+
+      <failure message="Testing if value of &lt;Element [name=@boardName]&gt; contains: &#34;30522576&#34;. Element could not be located in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;null&#34;[0m">    at Object.Create Board Test (/Users/marohnhoward/DevMountain/mentorMain/automationExamples/tests/pinterestTest.js:71:21)</failure>
+
+    
+
+    
+
+      <failure message="Timed out while waiting for element &lt;(//div[@class= &#34;Mhr Zr3 sLG zI7 iyn Hsu&#34;])[1]&gt; to be present for 5000 milliseconds. - expected [0;32m&#34;visible&#34;[0m but got: [0;31m&#34;not found&#34;[0m">    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+    
+    <testcase
+      name="Change Name Test" classname="pinterestTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Message Test" classname="pinterestTest">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

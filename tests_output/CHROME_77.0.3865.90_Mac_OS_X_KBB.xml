@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="2"
+            failures="0"
+            tests="1">
+
+  <testsuite name="KBB"
+    errors="2" failures="0" hostname="" id="" package="KBB" skipped="0"
+    tests="1" time="64.89" timestamp="">
+  
+    <testcase name="Find the Value of a car" classname="KBB" time="64.89" assertions="0">
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

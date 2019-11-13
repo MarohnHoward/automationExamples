@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="2"
+            failures="0"
+            tests="3">
+
+  <testsuite name="google"
+    errors="2" failures="0" hostname="" id="" package="google" skipped="0"
+    tests="3" time="21.96" timestamp="">
+  
+    <testcase name="Search Bar Test" classname="google" time="5.355" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Click Submit Test" classname="google" time="6.867" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Im Feeling Lucky Test" classname="google" time="9.740" assertions="1">
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

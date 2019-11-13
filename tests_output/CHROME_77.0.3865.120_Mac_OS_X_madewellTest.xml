@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="3">
+
+  <testsuite name="madewellTest"
+    errors="0" failures="1" hostname="" id="" package="madewellTest" skipped="0"
+    tests="3" time="88.16" timestamp="">
+  
+    <testcase name="Verify Corrisponding Tab Test" classname="madewellTest" time="4.342" assertions="10">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Add to Cart Test" classname="madewellTest" time="61.22" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Favorites Add Test" classname="madewellTest" time="22.60" assertions="1">  <failure message="Timed out while waiting for element &lt;(//img[@class=&#34;alternate-image lazyautosizes lazyloaded&#34;])[1]&gt; to be present for 5000 milliseconds. - expected [0;32m&#34;found&#34;[0m but got: [0;31m&#34;not found&#34;[0m">    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

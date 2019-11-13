@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="2"
+            failures="0"
+            tests="3">
+
+  <testsuite name="madewellTest"
+    errors="2" failures="0" hostname="" id="" package="madewellTest" skipped="0"
+    tests="3" time="53.75" timestamp="">
+  
+    <testcase name="Verify Corrisponding Tab Test" classname="madewellTest" time="3.823" assertions="10">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Add to Cart Test" classname="madewellTest" time="39.27" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Favorites Add Test" classname="madewellTest" time="10.65" assertions="1">
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

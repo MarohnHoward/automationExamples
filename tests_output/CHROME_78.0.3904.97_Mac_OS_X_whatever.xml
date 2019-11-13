@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="2">
+
+  <testsuite name="whatever"
+    errors="0" failures="1" hostname="" id="" package="whatever" skipped="0"
+    tests="2" time="6.245" timestamp="">
+  
+    <testcase name="Check the home page" classname="whatever" time="0.7050" assertions="9">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check required fields on warrant" classname="whatever" time="5.540" assertions="2">
+
+      <failure message="Timed out while waiting for element &lt;[name=&#34;hdrInput&#34;]&gt; to be present for 5000 milliseconds. - expected [0;32m&#34;visible&#34;[0m but got: [0;31m&#34;not found&#34;[0m">    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

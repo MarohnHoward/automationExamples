@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="variableToyProblem2"
+    errors="0" failures="0" hostname="" id="" package="variableToyProblem2" skipped="0"
+    tests="2" time="77.02" timestamp="">
+  
+    <testcase name="Selectors" classname="variableToyProblem2" time="76.30" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test data" classname="variableToyProblem2" time="0.7190" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
